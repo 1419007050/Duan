@@ -1,0 +1,1 @@
+print('hello DogDog你好狗狗')
